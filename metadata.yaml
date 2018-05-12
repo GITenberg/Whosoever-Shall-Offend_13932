@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13932#Whosoever-Shall-Offend
 gutenberg_issued: '2004-11-03'
 gutenberg_type: Text
 identifiers:
